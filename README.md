@@ -1,6 +1,11 @@
 # Praenox Pro
 **Biometric Sound Synthesis — Arlej Tech**
 
+Web Praenox: https://praenox.com
+---
+Web Arlej Tech: https://arlejtech.com
+---
+
 ## What Is Praenox Pro?
 
 Praenox turns your saved health data into a reproducible therapeutic soundscape:
